@@ -24,4 +24,4 @@ Working on large Unity projects, especially when migrating older projects to new
 
 ## Contributing
 
-Please feel free to fork, raise issues, or submit pull requests. All feedback or contributions are appreciated.
+Feel free to fork this project and submit pull requests or raise issues if you find any bugs or have suggestions for improvements.
